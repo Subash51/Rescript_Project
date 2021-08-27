@@ -15,6 +15,7 @@
 /lib
 .bsb.lock
 .merlin
+*.bs.js
 
 # misc
 .DS_Store
